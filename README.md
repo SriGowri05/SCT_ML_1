@@ -57,4 +57,4 @@ Steps:
 4. Run all cells to see outputs.
 
 ## Author
-Sri Gowri
+SriGowri
